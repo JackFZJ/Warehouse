@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackFZJ
 - 👀 I’m interested in python ,java and deeplearning.
-- 🌱 I’m currently learning JavaWeb.
+- 🌱 I’m currently learning Jvm Juc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :email:1678569103@qq.com. 😎
 
